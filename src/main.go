@@ -65,4 +65,5 @@ func main() {
 	mapsUse()
 	structsUse()
 	pointersUse()
+	interfacesUse()
 }
