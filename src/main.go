@@ -67,4 +67,6 @@ func main() {
 	pointersUse()
 	interfacesUse()
 	goRoutinesUse()
+	channelsUse()
+	moreChannelsUse()
 }
