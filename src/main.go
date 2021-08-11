@@ -66,4 +66,5 @@ func main() {
 	structsUse()
 	pointersUse()
 	interfacesUse()
+	goRoutinesUse()
 }
